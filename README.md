@@ -37,9 +37,10 @@ The objective of this project is to transform raw sales data into meaningful vis
 2. Open it using Tableau Desktop/Public.
 3. Explore the dashboard using filters and charts.
 
+
 ## 📷 Dashboard Preview
 
-![Dashboard Screenshot](dashboard.png)
+![Dashboard Screenshot](dashboard.png.jpg)
    
 
 ## 📚 Learning Outcome
